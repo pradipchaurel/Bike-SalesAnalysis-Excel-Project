@@ -4,7 +4,7 @@
 This project involves analyzing sales data for a bike shop using Microsoft Excel. The dataset includes information such as income, gender, occupation, and more. By leveraging Excel's powerful features, I aim to gain insights from that data.
 
 ## Usage
-1. Download the Dataset: Obtain the dataset containing bike sales data.
+1. Download the Dataset: Obtain the dataset containing bike sales data (https://github.com/pradipchaurel/Bike-SalesAnalysis-Excel-Project/blob/main/bike_buyers_raw_dataset.xlsx).
 2. Open the Excel File: Open the Excel file containing the project.
 3. Data Preparation: Clean and prepare the data for analysis.
 4. Exploratory Data Analysis: Explore the dataset using Excel's data visualization and analysis tools.
